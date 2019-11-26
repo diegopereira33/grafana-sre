@@ -1,0 +1,8 @@
+Executando compose
+
+docker-compose up -d 
+
+
+Entrando dentro do container 
+
+docker exec -it nomecontainer bash 
